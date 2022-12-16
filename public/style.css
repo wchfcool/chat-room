@@ -58,9 +58,19 @@ body {
 }
 
 .message-box img {
-    max-width: 60%;
+    max-width: 100%;
     display: block;
     margin: 4px;
+}
+
+.message-box audio {
+    max-width: 100%;
+    display: block;
+}
+
+.message-box video {
+    max-width: 100%;
+    display: block;
 }
 
 .panel {
